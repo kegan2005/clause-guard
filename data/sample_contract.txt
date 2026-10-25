@@ -1,0 +1,59 @@
+MASTER SERVICES AND SUPPLY AGREEMENT
+
+This Master Services and Supply Agreement is entered into by and between Northwind Components Ltd., a company incorporated in England and Wales ("Supplier"), and Bluepeak Retail Inc., a Delaware corporation ("Customer"). This Agreement is effective as of 1 March 2025 (the "Effective Date").
+
+1. SERVICES AND SUPPLY
+
+1.1 Supplier shall manufacture and deliver the electronic components described in each Purchase Order issued by Customer. Delivery dates will be confirmed in writing within five business days of each order.
+
+1.2 Customer shall pay each undisputed invoice within thirty (30) days of receipt. Late payments accrue interest at one percent per month.
+
+2. EXCLUSIVITY
+
+2.1 Customer appoints Supplier as its sole and exclusive supplier of electronic components for the Territory during the Term. Customer shall not purchase any competing components from any other supplier.
+
+3. TERM AND TERMINATION
+
+3.1 This Agreement begins on the Effective Date and continues for an initial term of three (3) years, and it will automatically renew for successive renewal terms of one year each unless either party gives ninety days written notice of non-renewal.
+
+3.2 Supplier may terminate this Agreement for convenience at any time, for any reason or no reason, upon ten (10) days written notice to Customer.
+
+3.3 Either party may terminate this Agreement immediately if the other party commits a material breach that remains uncured for thirty days after written notice.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Customer hereby irrevocably assigns to Supplier all right, title and interest in any improvements, designs or modifications developed by Customer in connection with the components, and all such work shall be the sole and exclusive property of Supplier.
+
+4.2 Each party retains ownership of its pre-existing materials and confidential information.
+
+5. RESTRICTIVE COVENANTS
+
+5.1 During the Term and for a period of five (5) years thereafter, Customer shall not, directly or indirectly, engage in any business that competes with the business of Supplier anywhere in the world. This non-compete obligation survives termination of this Agreement.
+
+6. LIABILITY AND DAMAGES
+
+6.1 Customer's liability for breach of its confidentiality and indemnification obligations shall be unlimited and shall not be subject to any limitation of liability.
+
+6.2 Supplier's total aggregate liability arising out of this Agreement shall not exceed the fees paid by Customer in the preceding three months.
+
+6.3 If Supplier fails to deliver an order by the agreed date, Supplier shall pay Customer liquidated damages of two percent of the order value for each day of delay, which the parties agree is a genuine pre-estimate of loss.
+
+7. ASSIGNMENT AND CHANGE OF CONTROL
+
+7.1 Neither party may assign or transfer this Agreement or any rights under it without the prior written consent of the other party.
+
+7.2 If Customer undergoes a change of control, including any merger or acquisition of more than fifty percent of its voting securities, Supplier may terminate this Agreement on written notice.
+
+8. AUDIT AND RECORDS
+
+8.1 Supplier may audit Customer's books and records relating to the purchase of components once per calendar year upon fifteen days notice. Customer shall bear the cost of any audit that reveals an underpayment of more than five percent.
+
+9. GENERAL
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of England and Wales, and the courts of London shall have jurisdiction over any dispute.
+
+9.2 Each party shall keep the other party's confidential information secret and use it only for the purposes of this Agreement.
+
+9.3 This Agreement constitutes the entire agreement between the parties and may be amended only in a writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have signed this Agreement as of the Effective Date.
