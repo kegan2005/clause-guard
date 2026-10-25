@@ -8,7 +8,7 @@ reason, and highlights the risky text. It is a college NLP mini-project aligned 
 > **This tool assists review and is not legal advice.**
 
 The app works **before any model is trained**: it falls back to a rule-based classifier and shows a
-visible `DEMO MODE` banner. Nothing on the *Model Performance* page is invented - it only reads saved
+visible `DEMO MODE` banner. Nothing on the *Model Performance* page is invented - it only reads save
 `metrics.json` files.
 
 ## 1. Installation
